@@ -43,8 +43,8 @@ rules = {
 }
 
 # Input/output locations
-load_path = "C:/Users/ayar9/source/repos/Data/students_dataset.csv"
-save_path = "C:/Users/ayar9/source/repos/Data/allocated_students.csv"
+load_path = "<students dataset>"
+save_path = "<allocated_students_save_path>.csv"
 
 # DataHandler
 handler = DataHandler(load_path)
