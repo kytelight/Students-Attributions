@@ -1,5 +1,5 @@
 import sys
-from StudentsAttributions import Actions, Class, Allocations, DataHandler
+from students_attributions import Actions, Class, Allocations, DataHandler
 
 # Check for right usage:
 #   - approach = rule-engine
