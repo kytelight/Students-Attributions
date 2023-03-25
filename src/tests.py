@@ -1,5 +1,5 @@
 import unittest
-from StudentsAttributions import Class, Allocations, DataHandler, Actions
+from students_attributions import Class, Allocations, DataHandler, Actions
 
 
 class TestRulesMethods(unittest.TestCase):
