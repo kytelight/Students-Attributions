@@ -38,7 +38,7 @@ class Actions:
 
     def match_ID_class(self, allocations, match_ID, rules, rule):
         """
-        Find the class that corresponds to a rule
+        Add ID/class pairs to allocations
         """
         return allocations.setdefault(
             match_ID, self.compute_class(rules, rule)
