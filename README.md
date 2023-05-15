@@ -18,4 +18,4 @@ Overall, the system will ensure that each student is assigned to the most suitab
 - Clone or download the repo to your local machine.
 - Make sure Python is installed in your machine.
 - Make sure the `rule_engine` pachage is installed.
-- Run the code program from src\main.
+- Run the program from `src\main`.
